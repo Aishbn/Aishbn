@@ -5,7 +5,7 @@ I am a collaborative, detail-oriented **Senior Technical Writer** with over ten 
 
 **Documents I work on:**
 
-User Guide, Operating Manual, Release Notes, Installation Guide, Deployment Guide, Feature Description Manual, REST API Guide, Developer Documentation, Troubleshooting Guide, and Training Presentations. 
+User Guide, Administrator Guide, Operating Manual, Release Notes, Installation Guide, Deployment Guide, Feature Description Manual, REST API Guide, Developer Documentation, Troubleshooting Guide, and Training Presentations. 
 
 
 **Tools and Processes I am familiar with:**
