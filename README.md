@@ -16,6 +16,6 @@ User Guide, Operating Manual, Release Notes, Installation Guide, Deployment Guid
 Vasont, Perforce, Adobe FrameMaker, Oxygen XML, Epic Editor, Adobe Creative Cloud Suite, MS Word, Microsoft Office, DITA, SaFe, Agile, SDLC, DDLC, Doc-as-code, MarkDown, Asciidoc, Git, Gitlab, GitHub, Proofread, Editing, and Information Architect.
 
 *   🌍  I'm based in Bengaluru, Karnataka
-*   🖥️  See my portfolio at [Linkedin](http://in.linkedin.com/in/seniorsoftwaretechnicalwriter)
+*   🖥️  See my portfolio on [Linkedin](http://in.linkedin.com/in/seniorsoftwaretechnicalwriter)
 *   ✉️  You can contact me at [aishbn@protonmail.com](mailto:aishbn@protonmail.com)
 *   🧠  I'm learning To code Python
